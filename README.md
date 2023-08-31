@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Krunal Virugam</h1>
 <h3 align="center">Call Me Virugamacoder 💻👨🏽‍💻</h3>
 
-- 📫 How to reach me **virugamacoder@gmail.com**
+- 🔭 I’m currently working on something cool
+
+- 🌱 I’m currently learning everything 😂
+
+- 🎯 2023 Goals: Contribute more to open source projects
+
+- ⚡ Fun fact: I love to code that's it !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/virugamacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virugamacoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/virugamacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virugamacoder" height="30" width="40" /></a>
 </p>
 
