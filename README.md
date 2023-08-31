@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+
+# 💫 About Me:![dd (1)](https://github.com/virugamacoder/virugamacoder/assets/89926772/b76b40a7-737c-47a5-8a1e-e87484639a0a)
+
 🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning everything 😂<br><br>🎯 2023 Goals: Contribute more to open source projects<br><br>⚡ Fun fact: I love to code that's it !
 
 
