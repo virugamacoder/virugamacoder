@@ -2,7 +2,7 @@
 ![github banar](https://github.com/virugamacoder/virugamacoder/assets/89926772/77eed379-0b6b-40d3-9240-4dfe20522e6e)
 
 # 💫 About Me:
-🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning everything 😂<br><br>🎯 2024 Goals: Contribute more to open source projects<br><br>⚡ Fun fact: I love to code that's it !
+🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning rust 😂<br><br>🎯 2025 Goals: Create Somthing New <br><br>⚡ Fun fact: I love to code that's it !
 
 
 ## 🌐 Socials:
